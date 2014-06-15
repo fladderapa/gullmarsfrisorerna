@@ -1,0 +1,54 @@
+extends layout-admin
+
+block content
+
+	.container
+		.row
+			.col-md-12
+				.panel
+					.panel-body
+						.row
+							</br>
+							.col-md-2.col-sm-3.text-center
+								a(href="/admin/edit/#{aboutUs.id}")
+									button.btn.btn-info.btn-block(style="margin-top: 75px;") Edit
+							.col-md-10.col-sm-9
+								h2 #{aboutUs.title}
+								.row
+									.col-xs-9
+										p 	#{aboutUs.text}
+									.col-xs-3
+	.container
+		.row
+			.col-md-12
+				.panel
+					.panel-body
+						.row
+							</br>
+							.col-md-2.col-sm-3.text-center
+								a(href="/admin/edit/#{contact.id}")
+									button.btn.btn-info.btn-block(style="margin-top: 75px;") Edit
+							.col-md-10.col-sm-9
+								h2 #{contact.title}
+								.row
+									.col-xs-9
+										p 	#{contact.text}
+									.col-xs-3
+	.container
+		.row
+			.col-md-12
+				.panel
+					.panel-body
+						.row
+							</br>
+							.col-md-2.col-sm-3.text-center
+								a(href="/admin/edit/#{other.id}")
+									button.btn.btn-info.btn-block(style="margin-top: 75px;") Edit
+							.col-md-10.col-sm-9
+								h2 #{other.title}
+								.row
+									.col-xs-9
+										p 	#{other.text}
+									.col-xs-3
+		
+

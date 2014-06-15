@@ -1,0 +1,28 @@
+extends layout
+
+block content
+	.section
+		.container
+			.row
+				.col-xs-12
+					img.img-responsive(src="/img/maintron.jpg")
+
+	.section.about-section
+		.container
+			.row
+				.col-md-7
+					h2 Om oss
+					p 
+						|Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque laoreet eleifend viverra. Nulla ut fringilla libero. 
+						|Morbi dolor lectus, aliquet eget aliquet in, lobortis in magna. Praesent rhoncus dui elit, vitae feugiat sapien convallis at. 
+						|Proin malesuada ligula in libero accumsan, ac vulputate nisl pellentesque. Quisque tempus dapibus libero at ullamcorper. 
+						
+				.col-md-4
+					div.images(style="margin-top: 70px; padding-left: 35px;")
+						img(src="img/album-cover1.jpg", style="height:150px; width:150px;", align="middle")
+						img(src="img/album-cover2.jpg", style="height:200px; width:200px; margin-left: -25px", align="middle")
+	.section.parallax01(data-stellar-background-ratio="0.2")
+
+	script.
+		if(!Modernizr.touch){$(window).stellar({ horizontalScrolling: false,  horizontalOffset: 0});}
+			
