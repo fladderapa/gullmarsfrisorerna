@@ -1,0 +1,17 @@
+extends layout-admin
+
+block content
+  .container
+    .edit
+      h2 Skapa nytt varumärke
+      form(action="", method="POST")
+        
+        .form-group.row
+          .col-md-6
+            p
+              label(for='title') Namn
+              input.form-control(type="text", name="title")
+              input.form-control(type="hidden", name="type", value="brands")
+              input.form-control(type="hidden", name="id", value="newBrand")
+              input.form-control(type="hidden", name="text", value="Lorem ipsum")
+        input.btn.btn-large.btn-success(type="submit", id="saveBlog", value="Spara")

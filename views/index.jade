@@ -1,0 +1,151 @@
+extends layout
+
+block content
+	.section.maintron(data-stellar-background-ratio="0")
+		.container
+			.row
+				.col-xs-1
+					.header.Three-Dee
+						h1.header1 Gullmars
+							span.header2 frisörerna
+				.col-xs-11
+	.section.placeholder
+		nav.navbar.navbar-default(role="navigation")
+				div.container
+						div.navbar-header
+								button.navbar-toggle(type="button", data-toggle="collapse", data-target="#bs-example-navbar-collapse-1")
+										span.sr-only Toggle navigation
+										span.icon-bar
+										span.icon-bar
+										span.icon-bar
+								img.icon(src="https://cdn1.iconfinder.com/data/icons/windows-8-metro-style/64/barber_scissors.png")
+						div.collapse.navbar-collapse.navHeaderCollapse#bs-example-navbar-collapse-1
+								ul.nav.navbar-nav
+									li
+										a.subNavBtn(href="#margin", style="color: black;") Om oss
+									li
+										a.HomeBtn(href="#brands", style="color: black;") Varumärken
+									li
+										a.nav-holder(href="#maintron", style="padding-top: 0px !important;")
+											img.navbar-brand(src="https://cdn1.iconfinder.com/data/icons/windows-8-metro-style/64/barber_scissors.png")
+									li 
+										a.subNavBtn(href="#price-table", style="color: black;") Priser
+									li
+										a.HomeBtn(href="#contact", style="color: black;") Kontakt
+	.section.margin
+		.container
+	.section.slider-section
+		.section
+			div#slider1_container(style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1300px; height: 400px; overflow: hidden;")
+				div( u="loading", style="position: absolute; top: 0px; left: 0px;")
+					div(style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block;top: 0px; left: 0px; width: 100%; height: 100%;")
+					div(style="position: absolute; display: block; background: url(/img/loading.gif) no-repeat center center;top: 0px; left: 0px; width: 100%; height: 100%;")
+				div(u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1300px;height: 500px; overflow: hidden;")
+					div
+						img(u="image" src="/img/cutting.JPG")
+					div
+						img(u="image" src="/img/shell-landscape.JPG")
+					div
+						img(u="image" src="/img/sallon-stylish.JPG")
+					div
+						img(u="image" src="/img/saloon-light3.JPG")
+					div
+						img(u="image" src="/img/gullmarsfrisorerna.JPG")
+
+				div(u="navigator" class="jssorb21" style="position: absolute; bottom: 26px; left: 6px;")			
+					div( u="prototype" style="POSITION: absolute; WIDTH: 19px; HEIGHT: 19px; text-align:center; line-height:19px; color:white; font-size:12px;")
+	.section.about-section
+		.container
+			.row.text-center
+				h1 #{aboutUs.title}
+				p 
+					|#{aboutUs.text}
+	.section.brands-section
+		.container
+			.brands
+				div.spacer
+					span.spacer-title  Varumärken
+				ul
+					for brand in brands
+						li
+							p #{brand.title}
+	.section.price-table
+		.container
+			.row
+				.col-md-3
+					h2 Klippning
+					for category in category1
+						p #{category.title} #{category.text}:-
+					</br>
+				.col-md-3
+					h2 Färgning
+					for category in category2
+						p #{category.title}
+							sup  fr. 
+							|#{category.text}:-
+					p Med klippning  +200:-
+					</br> </br>
+					h2 Slingor i hätta
+					for category in category6
+						p #{category.title}
+							sup  fr. 
+							|#{category.text}:-
+				.col-md-3
+					h2 Folieslingor
+					for category in category4
+						p #{category.title}
+							sup  fr. 
+							|#{category.text}:-
+					p Med klippning +200:-
+					</br> </br>
+					h2 Permanent
+					for category in category3
+						p #{category.title}
+							sup  fr. 
+							|#{category.text}:-
+					</br> 
+					p Tvätt och fön 200:-
+					p +inpackning 50:-
+				.col-md-3
+					h2 Fransar & Bryn
+					for category in category5
+						p #{category.title} #{category.text}:-
+					</br> </br>
+					h2 Håltagning öron
+					for category in category7
+						p #{category.title} #{category.text}:-
+	.section.contact
+		.container
+			.row
+				.col-sm-4(style="text-align: center;")
+					i.fa.fa-envelope.fa-3x
+					h3 E-Post
+					p lorem@ipsum.com
+				.col-sm-4(style="text-align: center;")
+					i.fa.fa-phone.fa-3x
+					h3 Telefon
+					p 08-91 20 30
+				.col-sm-4(style="text-align: center;")
+					i.fa.fa-map-marker.fa-3x
+					h3 Besöksadress
+					p Gullmarsvägen 2, 121 40 Johanneshov
+					
+	.section.facebook
+		.container
+			h2.text-center Följ oss på facebook!
+			.row
+				.col-sm-6.text-center
+					i.fa.fa-thumbs-up.fa-5x
+				.col-sm-6
+					div.fb-like-box(data-href="https://www.facebook.com/pages/Gullmarsfris%C3%B6rerna/121514824704783?fref=ts", data-width="300", data-height="200",  data-colorscheme="dark", data-show-faces="true", data-header="false", data-stream="false", data-show-border="false")
+	.section.null-margin
+		.zigzag-border-bottom
+	#map-canvas(style="height:440px; width: 100%;")
+	.section.small-margin
+		.zigzag-border-top
+
+
+
+		
+		
+			

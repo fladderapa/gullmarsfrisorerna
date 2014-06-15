@@ -1,0 +1,15 @@
+extends layout-admin
+
+block content
+  .container
+    .edit
+      h2 Editera sida: #{textPost.title}
+      form(action="", method="POST")
+        
+        .form-group.row
+          .col-md-6
+            p
+              label(for='title') Namn
+              input.form-control(type="text", name="title", id="title", value=textPost.title)
+              input.form-control(type="hidden", name="type", id="title", value=textPost.type)
+        input.btn.btn-large.btn-success(type="submit", id="saveBlog", value="Spara")

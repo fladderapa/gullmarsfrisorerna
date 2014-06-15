@@ -1,0 +1,200 @@
+extends layout-admin
+
+block content
+
+	.container(style="margin-top: 50px;")
+		.col-md-6
+			h1 Om oss
+			p 	#{aboutUs.text}
+			a.right(href="/admin/edit/#{aboutUs.id}")
+				button.btn.btn-primary(style="margin-top: 25px;") Ändra text
+		//.col-md-6
+			a(href="/admin/edit/#{aboutUs.id}")
+				button.btn.btn-info.btn-block(style="margin-top: 75px;") Edit
+	.container(style="margin-top: 50px;")
+		.row
+			.col-md-6
+				h1 Varumärken
+				p
+					a(href="/admin/edit/newBrand").btn.btn-primary Lägg till nytt varumärke 
+						i.fa.fa-plus-square
+				h2 Varumärke
+
+				table.table.table
+					thead
+						tr
+							th Namn
+							th
+							th 
+					for brand in brands
+						tr
+							td
+								|#{brand.title}
+							td
+								a.btn.btn-warning(href="/admin/edit/#{brand.id}") Ändra
+							td
+								form(method="POST", action="/admin/delete/#{brand.id}")
+									button.btn.btn-danger(type="submit") Delete
+			.col-md-6
+					h1 Produkter & Priser
+					p
+						a(href="/admin/edit/newProduct").btn.btn-primary Lägg till produkt och pris 
+							i.fa.fa-plus-square
+					h2 Klippning
+					table.table.table
+						thead
+							tr
+								th Kategori
+								th Namn
+								th Pris
+								th
+								th
+						for category in category1
+							tr
+								td
+									|#{category.category}
+								td
+									|#{category.title}
+								td
+									|#{category.text}kr
+								td
+									a.btn.btn-warning(href="/admin/edit/#{category.id}") Ändra
+								td
+									form(method="POST", action="/admin/delete/#{category.id}")
+										button.btn.btn-danger(type="submit") Delete
+					h2 Färgning
+					table.table.table
+						thead
+							tr
+								th Kategori
+								th Namn
+								th Pris
+								th
+								th
+						for category in category2
+							tr
+								td
+									|#{category.category}
+								td
+									|#{category.title}
+								td
+									|#{category.text}kr
+								td
+									a.btn.btn-warning(href="/admin/edit/#{category.id}") Ändra
+								td
+									form(method="POST", action="/admin/delete/#{category.id}")
+										button.btn.btn-danger(type="submit") Delete
+					h2 Permanent
+					table.table.table
+						thead
+							tr
+								th Kategori
+								th Namn
+								th Pris
+								th
+								th
+						for category in category3
+							tr
+								td
+									|#{category.category}
+								td
+									|#{category.title}
+								td
+									|#{category.text}kr
+								td
+									a.btn.btn-warning(href="/admin/edit/#{category.id}") Ändra
+								td
+									form(method="POST", action="/admin/delete/#{category.id}")
+										button.btn.btn-danger(type="submit") Delete
+					h2 Folieslingor
+					table.table.table
+						thead
+							tr
+								th Kategori
+								th Namn
+								th Pris
+								th
+								th
+						for category in category4
+							tr
+								td
+									|#{category.category}
+								td
+									|#{category.title}
+								td
+									|#{category.text}kr
+								td
+									a.btn.btn-warning(href="/admin/edit/#{category.id}") Ändra
+								td
+									form(method="POST", action="/admin/delete/#{category.id}")
+										button.btn.btn-danger(type="submit") Delete
+					h2 Fransar & Bryn
+					table.table.table
+						thead
+							tr
+								th Kategori
+								th Namn
+								th Pris
+								th
+								th
+						for category in category5
+							tr
+								td
+									|#{category.category}
+								td
+									|#{category.title}
+								td
+									|#{category.text}kr
+								td
+									a.btn.btn-warning(href="/admin/edit/#{category.id}") Ändra
+								td
+									form(method="POST", action="/admin/delete/#{category.id}")
+										button.btn.btn-danger(type="submit") Delete
+					h2 Slingor i hätta
+					table.table.table
+						thead
+							tr
+								th Kategori
+								th Namn
+								th Pris
+								th
+								th
+						for category in category6
+							tr
+								td
+									|#{category.category}
+								td
+									|#{category.title}
+								td
+									|#{category.text}kr
+								td
+									a.btn.btn-warning(href="/admin/edit/#{category.id}") Ändra
+								td
+									form(method="POST", action="/admin/delete/#{category.id}")
+										button.btn.btn-danger(type="submit") Delete
+					h2 Håltagning öron
+					table.table.table
+						thead
+							tr
+								th Kategori
+								th Namn
+								th Pris
+								th
+								th
+						for category in category7
+							tr
+								td
+									|#{category.category}
+								td
+									|#{category.title}
+								td
+									|#{category.text}kr
+								td
+									a.btn.btn-warning(href="/admin/edit/#{category.id}") Ändra
+								td
+									form(method="POST", action="/admin/delete/#{category.id}")
+										button.btn.btn-danger(type="submit") Delete
+
+
+		
+

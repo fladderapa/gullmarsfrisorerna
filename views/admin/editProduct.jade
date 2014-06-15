@@ -1,0 +1,30 @@
+extends layout-admin
+
+block content
+  .container
+    .edit
+      h2 Editera sida: #{textPost.title}
+      form(action="", method="POST")
+        
+        .form-group.row
+          .col-md-6
+            select.selectpicker.btn-info(name="category")
+              option(type="text", value=textPost.category, selected="selected") #{textPost.category}
+              option(type="text", value="Klippning") Klippning
+              option(type="text", value="Färgning") Färgning
+              option(type="text", value="Permanent") Permanent
+              option(type="text", value="Folieslingor") Folieslingor
+              option(type="text", value="Fransar&Bryn") Fransar&Bryn
+              option(type="text", value="Slingor i hätta") Slingor i hätta
+              option(type="text", value="Håltagning Öron") Håltagning Öron
+            //- p
+            //-   label(for='title') Kategori
+            //-   input.form-control(type="text", name="category", id="category", value=textPost.category)
+            p
+              label(for='title') Namn
+              input.form-control(type="text", name="title", id="title", value=textPost.title)
+            p
+              label(for='text') Pris
+              input.form-control(type="text", name="text", id="text", value=textPost.text)
+              input.form-control(type="hidden", name="type", id="title", value=textPost.type)
+        input.btn.btn-large.btn-success(type="submit", id="saveBlog", value="Spara")
