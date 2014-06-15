@@ -1,0 +1,220 @@
+{"1087be8e-eab0-4217-a6ce-09bec83da17c":{"type":"adminUser","name":"admin","password":"admin","permissions":["ksite"],"id":"1087be8e-eab0-4217-a6ce-09bec83da17c"}}
+{"1723fceb-2ced-4668-9db2-9ca674c73878":{"type":"aboutUs","title":"Title","text":"Lorem ipsum..","id":"1723fceb-2ced-4668-9db2-9ca674c73878"}}
+{"73ce7858-bd4d-4103-9ffb-c47d5fec880e":{"type":"contact","title":"Title","text":"Lorem ipsum..","id":"73ce7858-bd4d-4103-9ffb-c47d5fec880e"}}
+{"8a8fff04-effc-4566-b884-5e617c98f8de":{"type":"other","title":"Title","text":"Lorem ipsum..","id":"8a8fff04-effc-4566-b884-5e617c98f8de"}}
+{"1723fceb-2ced-4668-9db2-9ca674c73878":{"type":"aboutUs","title":"Title","text":"a","id":"1723fceb-2ced-4668-9db2-9ca674c73878"}}
+{"f7c51c32-9e76-4ce8-bdbe-6b4ae4bf02a4":{"type":"brands","title":"Björn Borg","text":"a","id":"f7c51c32-9e76-4ce8-bdbe-6b4ae4bf02a4"}}
+{"f7c51c32-9e76-4ce8-bdbe-6b4ae4bf02a4":{"type":"brands","title":"Björn Borg2","text":"a","id":"f7c51c32-9e76-4ce8-bdbe-6b4ae4bf02a4"}}
+{"f7c51c32-9e76-4ce8-bdbe-6b4ae4bf02a4":{"deleted":true,"id":"f7c51c32-9e76-4ce8-bdbe-6b4ae4bf02a4"}}
+{"b2bc3332-ce91-41c9-b200-b51495190a34":{"type":"brands","title":"di:fi","text":"a","id":"b2bc3332-ce91-41c9-b200-b51495190a34"}}
+{"8d7537bf-6adb-4022-a014-89e8376dbd7a":{"type":"brands","title":"Loreal","text":"a","id":"8d7537bf-6adb-4022-a014-89e8376dbd7a"}}
+{"24e5be5b-4c28-4c98-8a16-fe5bdd455f3c":{"type":"brands","title":"hh","text":"a","id":"24e5be5b-4c28-4c98-8a16-fe5bdd455f3c"}}
+{"e179d9ca-6d27-44c2-8c19-b70f38bd90cc":{"type":"brands","title":"t","text":"a","id":"e179d9ca-6d27-44c2-8c19-b70f38bd90cc"}}
+{"e230ee92-0112-464b-9556-587a6cf9f225":{"type":"brands","title":"vv","text":"a","id":"e230ee92-0112-464b-9556-587a6cf9f225"}}
+{"6144522f-36b5-4ab2-afc5-853f3756ff0c":{"type":"brands","title":"vv","text":"a","id":"6144522f-36b5-4ab2-afc5-853f3756ff0c"}}
+{"b415e0bb-aeda-4995-be7a-759905b1ab15":{"type":"brands","title":"ww","text":"a","id":"b415e0bb-aeda-4995-be7a-759905b1ab15"}}
+{"cd51613b-c3fb-4e39-8b10-33732168e1e1":{"type":"brands","title":"Oo","text":"a","id":"cd51613b-c3fb-4e39-8b10-33732168e1e1"}}
+{"0c946a1e-fcfe-4cdb-ac05-f02c1068b550":{"type":"brands","title":"BB","text":"a","id":"0c946a1e-fcfe-4cdb-ac05-f02c1068b550"}}
+{"e550ea97-8c0a-44c3-8ebd-fb4c80ce0e27":{"type":"products","title":"Hej","text":"a","id":"e550ea97-8c0a-44c3-8ebd-fb4c80ce0e27"}}
+{"553f6aa5-0969-4813-8a7c-8dda038eacab":{"type":"products","title":"Hej","text":"a","id":"553f6aa5-0969-4813-8a7c-8dda038eacab"}}
+{"09ac57d3-70d3-4f1d-addb-00594a8e86d3":{"type":"brands","title":"Klippning","id":"09ac57d3-70d3-4f1d-addb-00594a8e86d3"}}
+{"e2bd797a-1219-4a7e-b1ff-81511703e3ff":{"type":"products","title":"Färgning","text":"180","id":"e2bd797a-1219-4a7e-b1ff-81511703e3ff"}}
+{"553f6aa5-0969-4813-8a7c-8dda038eacab":{"deleted":true,"id":"553f6aa5-0969-4813-8a7c-8dda038eacab"}}
+{"09ac57d3-70d3-4f1d-addb-00594a8e86d3":{"deleted":true,"id":"09ac57d3-70d3-4f1d-addb-00594a8e86d3"}}
+{"b415e0bb-aeda-4995-be7a-759905b1ab15":{"deleted":true,"id":"b415e0bb-aeda-4995-be7a-759905b1ab15"}}
+{"8b445306-f462-4d52-9365-17a6c8b5d94f":{"type":"brands","title":"BMW","id":"8b445306-f462-4d52-9365-17a6c8b5d94f"}}
+{"786a17c8-960d-42e8-9eb7-1114d8776c05":{"type":"products","title":"BMW","text":"400 000","id":"786a17c8-960d-42e8-9eb7-1114d8776c05"}}
+{"786a17c8-960d-42e8-9eb7-1114d8776c05":{"deleted":true,"id":"786a17c8-960d-42e8-9eb7-1114d8776c05"}}
+{"b2bc3332-ce91-41c9-b200-b51495190a34":{"deleted":true,"id":"b2bc3332-ce91-41c9-b200-b51495190a34"}}
+{"b2bc3332-ce91-41c9-b200-b51495190a34":{"deleted":true,"id":"b2bc3332-ce91-41c9-b200-b51495190a34"}}
+{"cd51613b-c3fb-4e39-8b10-33732168e1e1":{"deleted":true,"id":"cd51613b-c3fb-4e39-8b10-33732168e1e1"}}
+{"e2bd797a-1219-4a7e-b1ff-81511703e3ff":{"deleted":true,"id":"e2bd797a-1219-4a7e-b1ff-81511703e3ff"}}
+{"e550ea97-8c0a-44c3-8ebd-fb4c80ce0e27":{"deleted":true,"id":"e550ea97-8c0a-44c3-8ebd-fb4c80ce0e27"}}
+{"e550ea97-8c0a-44c3-8ebd-fb4c80ce0e27":{"deleted":true,"id":"e550ea97-8c0a-44c3-8ebd-fb4c80ce0e27"}}
+{"8b445306-f462-4d52-9365-17a6c8b5d94f":{"deleted":true,"id":"8b445306-f462-4d52-9365-17a6c8b5d94f"}}
+{"0c946a1e-fcfe-4cdb-ac05-f02c1068b550":{"deleted":true,"id":"0c946a1e-fcfe-4cdb-ac05-f02c1068b550"}}
+{"6144522f-36b5-4ab2-afc5-853f3756ff0c":{"deleted":true,"id":"6144522f-36b5-4ab2-afc5-853f3756ff0c"}}
+{"e230ee92-0112-464b-9556-587a6cf9f225":{"deleted":true,"id":"e230ee92-0112-464b-9556-587a6cf9f225"}}
+{"e179d9ca-6d27-44c2-8c19-b70f38bd90cc":{"deleted":true,"id":"e179d9ca-6d27-44c2-8c19-b70f38bd90cc"}}
+{"24e5be5b-4c28-4c98-8a16-fe5bdd455f3c":{"deleted":true,"id":"24e5be5b-4c28-4c98-8a16-fe5bdd455f3c"}}
+{"8d7537bf-6adb-4022-a014-89e8376dbd7a":{"deleted":true,"id":"8d7537bf-6adb-4022-a014-89e8376dbd7a"}}
+{"1723fceb-2ced-4668-9db2-9ca674c73878":{"type":"aboutUs","title":"Title","text":"Här är vi","id":"1723fceb-2ced-4668-9db2-9ca674c73878"}}
+{"1723fceb-2ced-4668-9db2-9ca674c73878":{"type":"aboutUs","title":"Gullmarsfrisörerna","text":"Vällkomna till gulmarsFrisörerna","id":"1723fceb-2ced-4668-9db2-9ca674c73878"}}
+{"43125309-ac2a-44d5-a46b-05f922da6b27":{"type":"products","title":"Färgning","text":"800","id":"43125309-ac2a-44d5-a46b-05f922da6b27"}}
+{"934e4606-8544-4187-88b6-8ccf00ef3139":{"type":"products","title":"Klippning","text":"320","id":"934e4606-8544-4187-88b6-8ccf00ef3139"}}
+{"4eb1df5f-cfa6-4a7d-b6ee-9c893c7ac15a":{"type":"brands","title":"Loreal","text":"Lorem ipsum","id":"4eb1df5f-cfa6-4a7d-b6ee-9c893c7ac15a"}}
+{"c6789c5c-e53f-4c09-965e-4e60f2c05e30":{"type":"brands","title":"Di:fi","text":"Lorem ipsum","id":"c6789c5c-e53f-4c09-965e-4e60f2c05e30"}}
+{"01ff93a1-9675-4f1d-ae27-ae530d883036":{"type":"brands","title":"Di:fi","text":"Lorem ipsum","id":"01ff93a1-9675-4f1d-ae27-ae530d883036"}}
+{"1723fceb-2ced-4668-9db2-9ca674c73878":{"type":"aboutUs","title":"Lorem ipsum","text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in magna nunc. Cras venenatis euismod condimentum. Aliquam eu velit mattis justo lacinia tincidunt sit amet nec ipsum. Pellentesque sed pulvinar metus. Mauris eget justo ac elit rutrum accumsan quis non erat. Nulla vestibulum ornare orci, ac malesuada urna egestas eu. Suspendisse id tellus ac lorem faucibus bibendum. Donec pretium adipiscing sapien ac porttitor. Ut a tincidunt risus, in tempor purus. Donec vel mollis risus, ut aliquam neque.","id":"1723fceb-2ced-4668-9db2-9ca674c73878"}}
+{"899325aa-f109-4582-a43e-e63b6f285322":{"type":"products","title":"Hela håret","text":"200","category":"Färgning","id":"899325aa-f109-4582-a43e-e63b6f285322"}}
+{"ea3fb129-9c93-460d-bf9f-039d6dfaede0":{"type":"brands","title":"Volvo","text":"Lorem ipsum","id":"ea3fb129-9c93-460d-bf9f-039d6dfaede0"}}
+{"ea3fb129-9c93-460d-bf9f-039d6dfaede0":{"type":"brands","title":"Volvo","id":"ea3fb129-9c93-460d-bf9f-039d6dfaede0"}}
+{"899325aa-f109-4582-a43e-e63b6f285322":{"deleted":true,"id":"899325aa-f109-4582-a43e-e63b6f285322"}}
+{"43125309-ac2a-44d5-a46b-05f922da6b27":{"deleted":true,"id":"43125309-ac2a-44d5-a46b-05f922da6b27"}}
+{"934e4606-8544-4187-88b6-8ccf00ef3139":{"deleted":true,"id":"934e4606-8544-4187-88b6-8ccf00ef3139"}}
+{"1723fceb-2ced-4668-9db2-9ca674c73878":{"type":"aboutUs","title":"Lorem ipsum","text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in magna nunc. Cras venenatis euismod condimentum. Aliquam eu velit mattis justo lacinia tincidunt sit amet nec ipsum. Pellentesque sed pulvinar metus. Mauris eget justo ac elit rutrum accumsan quis non erat. Nulla vestibulum ornare orci, ac malesuada urna egestas eu. Suspendisse id tellus ac lorem faucibus bibendum. Donec pretium adipiscing sapien ac porttitor. Ut a tincidunt risus, in tempor purus. Donec vel mollis risus, ut aliquam neque..","id":"1723fceb-2ced-4668-9db2-9ca674c73878"}}
+{"ea3fb129-9c93-460d-bf9f-039d6dfaede0":{"deleted":true,"id":"ea3fb129-9c93-460d-bf9f-039d6dfaede0"}}
+{"01ff93a1-9675-4f1d-ae27-ae530d883036":{"deleted":true,"id":"01ff93a1-9675-4f1d-ae27-ae530d883036"}}
+{"76695c8e-3922-4b51-9b0c-389a6f24da20":{"type":"brands","title":"Kalle Anka","text":"Lorem ipsum","id":"76695c8e-3922-4b51-9b0c-389a6f24da20"}}
+{"f6e8ef67-18fd-4bbf-8048-0cf320df7298":{"type":"products","title":"Ett öra","text":"80","category":"Håltagning","id":"f6e8ef67-18fd-4bbf-8048-0cf320df7298"}}
+{"76695c8e-3922-4b51-9b0c-389a6f24da20":{"deleted":true,"id":"76695c8e-3922-4b51-9b0c-389a6f24da20"}}
+{"76695c8e-3922-4b51-9b0c-389a6f24da20":{"deleted":true,"id":"76695c8e-3922-4b51-9b0c-389a6f24da20"}}
+{"76695c8e-3922-4b51-9b0c-389a6f24da20":{"deleted":true,"id":"76695c8e-3922-4b51-9b0c-389a6f24da20"}}
+{"9f905ce8-3bb3-4a6c-8e62-f63fa6fde65b":{"type":"products","title":"hela håret","text":"500","category":"Klippning","id":"9f905ce8-3bb3-4a6c-8e62-f63fa6fde65b"}}
+{"7bc2676e-01ab-4fbb-9c14-2f512130e076":{"type":"products","title":"halva håret","text":"280","category":"färgning","id":"7bc2676e-01ab-4fbb-9c14-2f512130e076"}}
+{"bdc68754-2100-4da8-8841-a562e7f51720":{"type":"products","title":"Färgning","text":"400","category":"Håltagning","id":"bdc68754-2100-4da8-8841-a562e7f51720"}}
+{"b39df658-4ecd-4148-8654-e764f0b46c0f":{"type":"products","title":"Färgning","text":"400","category":"Håltagning","id":"b39df658-4ecd-4148-8654-e764f0b46c0f"}}
+{"b39df658-4ecd-4148-8654-e764f0b46c0f":{"deleted":true,"id":"b39df658-4ecd-4148-8654-e764f0b46c0f"}}
+{"575f64d0-d64f-45d5-8a20-9d57dd2b2df9":{"type":"products","title":"Test","text":"test","id":"575f64d0-d64f-45d5-8a20-9d57dd2b2df9"}}
+{"33d3654a-cb8b-402a-ab57-96d208c9c01d":{"type":"products","title":"Testar","text":"testar","id":"33d3654a-cb8b-402a-ab57-96d208c9c01d"}}
+{"fc899617-7219-4e94-85c3-b1c8f8548be6":{"type":"products","title":"Testar","text":"testar","id":"fc899617-7219-4e94-85c3-b1c8f8548be6"}}
+{"23fa6bc0-76b2-4873-aef0-ef635ccbb36f":{"type":"products","title":"Acne","text":"aa","id":"23fa6bc0-76b2-4873-aef0-ef635ccbb36f"}}
+{"f4fe5bd0-aeab-476c-8654-4b540c8d3a62":{"type":"products","title":"Acne","text":"aa","id":"f4fe5bd0-aeab-476c-8654-4b540c8d3a62"}}
+{"490f3f2a-9b31-475a-a704-c6740205a9e1":{"type":"products","title":"Acne","text":"cc","category":"färgning","id":"490f3f2a-9b31-475a-a704-c6740205a9e1"}}
+{"132a4825-faca-41f2-bcda-4849ba31f8b6":{"type":"products","title":"cc","text":"cc","category":"klippning","id":"132a4825-faca-41f2-bcda-4849ba31f8b6"}}
+{"706c947d-1bf0-4659-b4c7-609b249431c4":{"type":"brands","title":"lol","text":"Lorem ipsum","id":"706c947d-1bf0-4659-b4c7-609b249431c4"}}
+{"706c947d-1bf0-4659-b4c7-609b249431c4":{"type":"brands","title":"lol2","id":"706c947d-1bf0-4659-b4c7-609b249431c4"}}
+{"1723fceb-2ced-4668-9db2-9ca674c73878":{"type":"aboutUs","title":"Lorem ipsum","text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in magna nunc. Cras venenatis euismod condimentum. Aliquam eu velit mattis justo lacinia tincidunt sit amet nec ipsum. Pellentesque sed pulvinar metus. Mauris eget justo ac elit rutrum accumsan quis non erat. Nulla vestibulum ornare orci, ac malesuada urna egestas eu. Suspendisse id tellus ac lorem faucibus bibendum. Donec pretium adipiscing sapien ac porttitor. Ut a tincidunt risus, in tempor purus. Donec vel mollis risus, ut aliquam neque.","id":"1723fceb-2ced-4668-9db2-9ca674c73878"}}
+{"706c947d-1bf0-4659-b4c7-609b249431c4":{"deleted":true,"id":"706c947d-1bf0-4659-b4c7-609b249431c4"}}
+{"f4fe5bd0-aeab-476c-8654-4b540c8d3a62":{"deleted":true,"id":"f4fe5bd0-aeab-476c-8654-4b540c8d3a62"}}
+{"fc899617-7219-4e94-85c3-b1c8f8548be6":{"deleted":true,"id":"fc899617-7219-4e94-85c3-b1c8f8548be6"}}
+{"575f64d0-d64f-45d5-8a20-9d57dd2b2df9":{"deleted":true,"id":"575f64d0-d64f-45d5-8a20-9d57dd2b2df9"}}
+{"33d3654a-cb8b-402a-ab57-96d208c9c01d":{"deleted":true,"id":"33d3654a-cb8b-402a-ab57-96d208c9c01d"}}
+{"23fa6bc0-76b2-4873-aef0-ef635ccbb36f":{"deleted":true,"id":"23fa6bc0-76b2-4873-aef0-ef635ccbb36f"}}
+{"7203482b-ace5-42b9-b9c1-1941e9d80e80":{"type":"products","title":"Rr","text":"r","category":"Permanent","id":"7203482b-ace5-42b9-b9c1-1941e9d80e80"}}
+{"7203482b-ace5-42b9-b9c1-1941e9d80e80":{"type":"products","title":"Rr","text":"r","category":"Färgning","id":"7203482b-ace5-42b9-b9c1-1941e9d80e80"}}
+{"7203482b-ace5-42b9-b9c1-1941e9d80e80":{"type":"products","title":"Rr","text":"r","category":"Permanent","id":"7203482b-ace5-42b9-b9c1-1941e9d80e80"}}
+{"c6789c5c-e53f-4c09-965e-4e60f2c05e30":{"type":"brands","title":"Di:fi","id":"c6789c5c-e53f-4c09-965e-4e60f2c05e30"}}
+{"4eb1df5f-cfa6-4a7d-b6ee-9c893c7ac15a":{"type":"brands","title":"Loreal..","id":"4eb1df5f-cfa6-4a7d-b6ee-9c893c7ac15a"}}
+{"7bc2676e-01ab-4fbb-9c14-2f512130e076":{"deleted":true,"id":"7bc2676e-01ab-4fbb-9c14-2f512130e076"}}
+{"9f905ce8-3bb3-4a6c-8e62-f63fa6fde65b":{"deleted":true,"id":"9f905ce8-3bb3-4a6c-8e62-f63fa6fde65b"}}
+{"490f3f2a-9b31-475a-a704-c6740205a9e1":{"deleted":true,"id":"490f3f2a-9b31-475a-a704-c6740205a9e1"}}
+{"132a4825-faca-41f2-bcda-4849ba31f8b6":{"deleted":true,"id":"132a4825-faca-41f2-bcda-4849ba31f8b6"}}
+{"f6e8ef67-18fd-4bbf-8048-0cf320df7298":{"type":"products","title":"Ett öra","text":"80","category":"Folieslingor","id":"f6e8ef67-18fd-4bbf-8048-0cf320df7298"}}
+{"f6e8ef67-18fd-4bbf-8048-0cf320df7298":{"type":"products","title":"Ett öra","text":"80","category":"Färgning","id":"f6e8ef67-18fd-4bbf-8048-0cf320df7298"}}
+{"966aa6f0-c69f-4487-89bd-2543c2c760fd":{"type":"products","title":"","text":"","category":"Klippning","id":"966aa6f0-c69f-4487-89bd-2543c2c760fd"}}
+{"5891f9f8-b6c0-48c8-8744-365c30136672":{"type":"brands","title":"","text":"Lorem ipsum","id":"5891f9f8-b6c0-48c8-8744-365c30136672"}}
+{"bdc68754-2100-4da8-8841-a562e7f51720":{"type":"products","title":"Färgningkkk","text":"400","category":"Håltagning Öron","id":"bdc68754-2100-4da8-8841-a562e7f51720"}}
+{"966aa6f0-c69f-4487-89bd-2543c2c760fd":{"deleted":true,"id":"966aa6f0-c69f-4487-89bd-2543c2c760fd"}}
+{"6b11eaf1-af24-4bdb-bfa0-b729f68fbf00":{"type":"products","title":"Toppar","text":"300","category":"Klippning","id":"6b11eaf1-af24-4bdb-bfa0-b729f68fbf00"}}
+{"b8ff9a30-5497-4a73-9c8d-24f845b7031d":{"type":"products","title":"Hela håret","text":"400","category":"Färgning","id":"b8ff9a30-5497-4a73-9c8d-24f845b7031d"}}
+{"0f50bfce-6eea-425b-828c-1ffa8283252e":{"type":"products","title":"Halva håret","text":"100","category":"Klippning","id":"0f50bfce-6eea-425b-828c-1ffa8283252e"}}
+{"71942004-5954-4c0b-a1fb-752b1a79878d":{"type":"products","title":"Halva håret","text":"100","category":"Klippning","id":"71942004-5954-4c0b-a1fb-752b1a79878d"}}
+{"d86ca247-7ab9-460d-8459-cf7de23b685d":{"type":"products","title":"Halva håret","text":"100","category":"Klippning","id":"d86ca247-7ab9-460d-8459-cf7de23b685d"}}
+{"a030efa9-ba2d-463e-8b77-6a23453df29b":{"type":"products","title":"Halva håret","text":"100","category":"Klippning","id":"a030efa9-ba2d-463e-8b77-6a23453df29b"}}
+{"6b11eaf1-af24-4bdb-bfa0-b729f68fbf00":{"deleted":true,"id":"6b11eaf1-af24-4bdb-bfa0-b729f68fbf00"}}
+{"0f50bfce-6eea-425b-828c-1ffa8283252e":{"deleted":true,"id":"0f50bfce-6eea-425b-828c-1ffa8283252e"}}
+{"71942004-5954-4c0b-a1fb-752b1a79878d":{"deleted":true,"id":"71942004-5954-4c0b-a1fb-752b1a79878d"}}
+{"d86ca247-7ab9-460d-8459-cf7de23b685d":{"deleted":true,"id":"d86ca247-7ab9-460d-8459-cf7de23b685d"}}
+{"d86ca247-7ab9-460d-8459-cf7de23b685d":{"deleted":true,"id":"d86ca247-7ab9-460d-8459-cf7de23b685d"}}
+{"7203482b-ace5-42b9-b9c1-1941e9d80e80":{"deleted":true,"id":"7203482b-ace5-42b9-b9c1-1941e9d80e80"}}
+{"c682b13a-d7fd-442b-9866-5e0e0631d4b3":{"type":"products","title":"Lugg","text":"120","category":"Klippning","id":"c682b13a-d7fd-442b-9866-5e0e0631d4b3"}}
+{"e8e5e6cf-15a2-4e9d-810f-6528fa3c4051":{"type":"products","title":"Båda öronen","text":"180","category":"Håltagning Öron","id":"e8e5e6cf-15a2-4e9d-810f-6528fa3c4051"}}
+{"bdc68754-2100-4da8-8841-a562e7f51720":{"type":"products","title":"Ett öra","text":"80","category":"Håltagning Öron","id":"bdc68754-2100-4da8-8841-a562e7f51720"}}
+{"5891f9f8-b6c0-48c8-8744-365c30136672":{"deleted":true,"id":"5891f9f8-b6c0-48c8-8744-365c30136672"}}
+{"1c2de67e-59e3-4957-a0e2-081631dc770e":{"type":"products","title":"","text":"","category":"Klippning","id":"1c2de67e-59e3-4957-a0e2-081631dc770e"}}
+{"1c2de67e-59e3-4957-a0e2-081631dc770e":{"deleted":true,"id":"1c2de67e-59e3-4957-a0e2-081631dc770e"}}
+{"a030efa9-ba2d-463e-8b77-6a23453df29b":{"deleted":true,"id":"a030efa9-ba2d-463e-8b77-6a23453df29b"}}
+{"c682b13a-d7fd-442b-9866-5e0e0631d4b3":{"deleted":true,"id":"c682b13a-d7fd-442b-9866-5e0e0631d4b3"}}
+{"f6e8ef67-18fd-4bbf-8048-0cf320df7298":{"deleted":true,"id":"f6e8ef67-18fd-4bbf-8048-0cf320df7298"}}
+{"b8ff9a30-5497-4a73-9c8d-24f845b7031d":{"deleted":true,"id":"b8ff9a30-5497-4a73-9c8d-24f845b7031d"}}
+{"bdc68754-2100-4da8-8841-a562e7f51720":{"deleted":true,"id":"bdc68754-2100-4da8-8841-a562e7f51720"}}
+{"e8e5e6cf-15a2-4e9d-810f-6528fa3c4051":{"deleted":true,"id":"e8e5e6cf-15a2-4e9d-810f-6528fa3c4051"}}
+{"3bb1502e-e9fa-4a05-af20-7ca88bacafb3":{"type":"products","title":"Kort hår","text":"270","category":"Klippning","id":"3bb1502e-e9fa-4a05-af20-7ca88bacafb3"}}
+{"78eaf38a-fc76-4f1d-8053-5f1a3ec5eb66":{"type":"products","title":"Axellångt hår","text":"290","category":"Klippning","id":"78eaf38a-fc76-4f1d-8053-5f1a3ec5eb66"}}
+{"c60f68cc-df43-41cb-a20d-64297bb229ce":{"type":"products","title":"Långt hår","text":"320","category":"Klippning","id":"c60f68cc-df43-41cb-a20d-64297bb229ce"}}
+{"35b261b4-a2e9-4758-a6ac-0171eaf6e35e":{"type":"products","title":"Barnklippning upp till 10år","text":"200","category":"Klippning","id":"35b261b4-a2e9-4758-a6ac-0171eaf6e35e"}}
+{"276bbb8c-8cd2-4efa-91bb-db97221640e0":{"type":"products","title":"Pensionär herr","text":"200","category":"Klippning","id":"276bbb8c-8cd2-4efa-91bb-db97221640e0"}}
+{"3c01d965-b0d6-4bc8-aa86-58b8bdc30dee":{"type":"products","title":"Pensionär dam","text":"220","category":"Klippning","id":"3c01d965-b0d6-4bc8-aa86-58b8bdc30dee"}}
+{"c5689428-ac11-4fd0-8495-3c5027f2ef5b":{"type":"products","title":"Snagg","text":"220","category":"Klippning","id":"c5689428-ac11-4fd0-8495-3c5027f2ef5b"}}
+{"b860bff9-510c-48f3-88fd-fd6669f1f0d7":{"type":"products","title":"Lugg","text":"80","category":"Klippning","id":"b860bff9-510c-48f3-88fd-fd6669f1f0d7"}}
+{"de152324-386d-403e-a7fe-bb576b94de4f":{"type":"products","title":"Botten","text":"650","category":"Färgning","id":"de152324-386d-403e-a7fe-bb576b94de4f"}}
+{"30366ea1-e8ff-4b8f-95df-e95c0b9ac0f7":{"type":"products","title":"Hela håret","text":"700","category":"Klippning","id":"30366ea1-e8ff-4b8f-95df-e95c0b9ac0f7"}}
+{"30366ea1-e8ff-4b8f-95df-e95c0b9ac0f7":{"type":"products","title":"Hela håret - kort","text":"700","category":"Klippning","id":"30366ea1-e8ff-4b8f-95df-e95c0b9ac0f7"}}
+{"5459b28f-02f9-4426-abb7-e4e2b65bcb4c":{"type":"products","title":"Hela håret - axellångt","text":"800","category":"Klippning","id":"5459b28f-02f9-4426-abb7-e4e2b65bcb4c"}}
+{"72c6885c-ed98-4743-9d8a-d6d0a114c978":{"type":"products","title":"Hela håret - långt","text":"900","category":"Klippning","id":"72c6885c-ed98-4743-9d8a-d6d0a114c978"}}
+{"30366ea1-e8ff-4b8f-95df-e95c0b9ac0f7":{"type":"products","title":"Hela håret - kort","text":"700","category":"Färgning","id":"30366ea1-e8ff-4b8f-95df-e95c0b9ac0f7"}}
+{"5459b28f-02f9-4426-abb7-e4e2b65bcb4c":{"type":"products","title":"Hela håret - axellångt","text":"800","category":"Färgning","id":"5459b28f-02f9-4426-abb7-e4e2b65bcb4c"}}
+{"72c6885c-ed98-4743-9d8a-d6d0a114c978":{"type":"products","title":"Hela håret - långt","text":"900","category":"Färgning","id":"72c6885c-ed98-4743-9d8a-d6d0a114c978"}}
+{"22b74603-ece8-472b-bcdd-1c24a8264ea6":{"type":"products","title":"Kort hår","text":"700","category":"Slingor i hätta","id":"22b74603-ece8-472b-bcdd-1c24a8264ea6"}}
+{"d3f894db-b29b-4ee5-abe9-34f1e2a63c1b":{"type":"products","title":"Axellångt hår","text":"800","category":"Slingor i hätta","id":"d3f894db-b29b-4ee5-abe9-34f1e2a63c1b"}}
+{"9bc796af-619c-44c1-b395-f4f0ecf9ad7d":{"type":"products","title":"Långt hår","text":"900","category":"Slingor i hätta","id":"9bc796af-619c-44c1-b395-f4f0ecf9ad7d"}}
+{"992fcb58-8c5c-4bf7-94bb-73d278f95367":{"type":"products","title":"Utan klippning","text":"750","category":"Folieslingor","id":"992fcb58-8c5c-4bf7-94bb-73d278f95367"}}
+{"732832f9-5806-4dba-a129-c706d21c4ec6":{"type":"products","title":"Kort hår","text":"750","category":"Permanent","id":"732832f9-5806-4dba-a129-c706d21c4ec6"}}
+{"6816ecc5-eb56-4374-b324-7c76d69c00b7":{"type":"products","title":"Axellångt hår","text":"900","category":"Klippning","id":"6816ecc5-eb56-4374-b324-7c76d69c00b7"}}
+{"6816ecc5-eb56-4374-b324-7c76d69c00b7":{"type":"products","title":"Axellångt hår","text":"900","category":"Permanent","id":"6816ecc5-eb56-4374-b324-7c76d69c00b7"}}
+{"c1ea03e8-bf69-4bfc-b75d-8cf0b8d9819e":{"type":"products","title":"Långt hår","text":"990","category":"Permanent","id":"c1ea03e8-bf69-4bfc-b75d-8cf0b8d9819e"}}
+{"e523faf5-95d4-4940-95a1-7be8e049ebbe":{"type":"products","title":"Brynplock","text":"90","category":"Klippning","id":"e523faf5-95d4-4940-95a1-7be8e049ebbe"}}
+{"6374b7e4-e690-43d8-a072-b49c43ce8a7a":{"type":"products","title":"Brynfärg","text":"90","category":"Fransar&Bryn","id":"6374b7e4-e690-43d8-a072-b49c43ce8a7a"}}
+{"e523faf5-95d4-4940-95a1-7be8e049ebbe":{"type":"products","title":"Brynplock","text":"90","category":"Fransar&Bryn","id":"e523faf5-95d4-4940-95a1-7be8e049ebbe"}}
+{"84a79c70-907d-41c9-b1f4-dcc5ab968faf":{"type":"products","title":"Fransfärg","text":"120","category":"Fransar&Bryn","id":"84a79c70-907d-41c9-b1f4-dcc5ab968faf"}}
+{"e8a769e2-d66b-42ed-ade1-c6c08dacd88b":{"type":"products","title":"Paketpris (frans, bryn, plock)","text":"250","category":"Fransar&Bryn","id":"e8a769e2-d66b-42ed-ade1-c6c08dacd88b"}}
+{"89e8083a-8847-4b62-815f-5878f1b47928":{"type":"products","title":"Ett hål","text":"90","category":"Håltagning Öron","id":"89e8083a-8847-4b62-815f-5878f1b47928"}}
+{"699aec5a-02f5-4a59-9586-d28786ed3117":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"699aec5a-02f5-4a59-9586-d28786ed3117"}}
+{"2e45924a-9936-46d1-a397-8547fe298c8d":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"2e45924a-9936-46d1-a397-8547fe298c8d"}}
+{"aad17054-0c46-4427-b268-d93c7afe6a70":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"aad17054-0c46-4427-b268-d93c7afe6a70"}}
+{"1b555ff2-e05e-4d7e-832c-aa9cbd9c50e6":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"1b555ff2-e05e-4d7e-832c-aa9cbd9c50e6"}}
+{"7367ff57-31f0-4382-90e3-baf49b97b898":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"7367ff57-31f0-4382-90e3-baf49b97b898"}}
+{"6078c3bc-3b65-41be-af86-8848447718e5":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"6078c3bc-3b65-41be-af86-8848447718e5"}}
+{"d01c0807-55e5-4a00-9f2b-e9be0a14d4b8":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"d01c0807-55e5-4a00-9f2b-e9be0a14d4b8"}}
+{"cdf2cb5b-a59c-4b2a-b4d2-0fbdf70bbebf":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"cdf2cb5b-a59c-4b2a-b4d2-0fbdf70bbebf"}}
+{"f8b46ea0-3693-45c9-b04f-bdd2cf83a782":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"f8b46ea0-3693-45c9-b04f-bdd2cf83a782"}}
+{"1f8b6dca-14bf-41b6-90e1-1628cf5d74b1":{"type":"products","title":"Två hål","text":"170","category":"Håltagning Öron","id":"1f8b6dca-14bf-41b6-90e1-1628cf5d74b1"}}
+{"c1ea03e8-bf69-4bfc-b75d-8cf0b8d9819e":{"deleted":true,"id":"c1ea03e8-bf69-4bfc-b75d-8cf0b8d9819e"}}
+{"db41236a-2d92-49be-a3de-942211f71393":{"type":"products","title":"Långt hår","text":"990","category":"Permanent","id":"db41236a-2d92-49be-a3de-942211f71393"}}
+{"01f967ea-af65-4ed3-a291-7882f82a589f":{"type":"products","title":"Långt hår","text":"990","category":"Permanent","id":"01f967ea-af65-4ed3-a291-7882f82a589f"}}
+{"00461aea-94b5-44a6-9b82-207e05cc2b5c":{"type":"products","title":"Långt hår","text":"990","category":"Permanent","id":"00461aea-94b5-44a6-9b82-207e05cc2b5c"}}
+{"b889539b-7bab-4995-a547-a5db77c5071d":{"type":"products","title":"Långt hår","text":"990","category":"Permanent","id":"b889539b-7bab-4995-a547-a5db77c5071d"}}
+{"8a8bf985-a34f-44c9-95a0-7a52a74225e0":{"type":"products","title":"Långt hår","text":"990","category":"Permanent","id":"8a8bf985-a34f-44c9-95a0-7a52a74225e0"}}
+{"1f8b6dca-14bf-41b6-90e1-1628cf5d74b1":{"deleted":true,"id":"1f8b6dca-14bf-41b6-90e1-1628cf5d74b1"}}
+{"f8b46ea0-3693-45c9-b04f-bdd2cf83a782":{"deleted":true,"id":"f8b46ea0-3693-45c9-b04f-bdd2cf83a782"}}
+{"cdf2cb5b-a59c-4b2a-b4d2-0fbdf70bbebf":{"deleted":true,"id":"cdf2cb5b-a59c-4b2a-b4d2-0fbdf70bbebf"}}
+{"d01c0807-55e5-4a00-9f2b-e9be0a14d4b8":{"deleted":true,"id":"d01c0807-55e5-4a00-9f2b-e9be0a14d4b8"}}
+{"6078c3bc-3b65-41be-af86-8848447718e5":{"deleted":true,"id":"6078c3bc-3b65-41be-af86-8848447718e5"}}
+{"7367ff57-31f0-4382-90e3-baf49b97b898":{"deleted":true,"id":"7367ff57-31f0-4382-90e3-baf49b97b898"}}
+{"1b555ff2-e05e-4d7e-832c-aa9cbd9c50e6":{"deleted":true,"id":"1b555ff2-e05e-4d7e-832c-aa9cbd9c50e6"}}
+{"aad17054-0c46-4427-b268-d93c7afe6a70":{"deleted":true,"id":"aad17054-0c46-4427-b268-d93c7afe6a70"}}
+{"2e45924a-9936-46d1-a397-8547fe298c8d":{"deleted":true,"id":"2e45924a-9936-46d1-a397-8547fe298c8d"}}
+{"4eb1df5f-cfa6-4a7d-b6ee-9c893c7ac15a":{"deleted":true,"id":"4eb1df5f-cfa6-4a7d-b6ee-9c893c7ac15a"}}
+{"c6789c5c-e53f-4c09-965e-4e60f2c05e30":{"deleted":true,"id":"c6789c5c-e53f-4c09-965e-4e60f2c05e30"}}
+{"326a54e9-5878-4e14-847c-41b2afffebe7":{"type":"brands","title":"Loreal","text":"Lorem ipsum","id":"326a54e9-5878-4e14-847c-41b2afffebe7"}}
+{"6e1516d3-7a55-4e88-a97f-0b9fc12752a6":{"type":"brands","title":"Wella","text":"Lorem ipsum","id":"6e1516d3-7a55-4e88-a97f-0b9fc12752a6"}}
+{"ad11abcf-518b-4302-94b9-a9b8a62dd4e2":{"type":"brands","title":"Di:fi","text":"Lorem ipsum","id":"ad11abcf-518b-4302-94b9-a9b8a62dd4e2"}}
+{"57ebcba6-b5e3-4905-aa29-00450deca974":{"type":"brands","title":"Sp","text":"Lorem ipsum","id":"57ebcba6-b5e3-4905-aa29-00450deca974"}}
+{"b1846ed5-bf67-462e-a0d8-3e3bc3c65f32":{"type":"brands","title":"Matrix","text":"Lorem ipsum","id":"b1846ed5-bf67-462e-a0d8-3e3bc3c65f32"}}
+{"936e9587-6903-429b-91fb-b83bf797e6d9":{"type":"brands","title":"Goldwell","text":"Lorem ipsum","id":"936e9587-6903-429b-91fb-b83bf797e6d9"}}
+{"321113a9-8255-4d3c-94b4-5e34d0825d6e":{"type":"brands","title":"Previa","text":"Lorem ipsum","id":"321113a9-8255-4d3c-94b4-5e34d0825d6e"}}
+{"ac81335e-1fab-4083-ab87-d38bff916a89":{"type":"brands","title":"Weterclouds","text":"Lorem ipsum","id":"ac81335e-1fab-4083-ab87-d38bff916a89"}}
+{"20917287-e5ec-4768-bcab-50aaec0157e0":{"type":"brands","title":"Exit","text":"Lorem ipsum","id":"20917287-e5ec-4768-bcab-50aaec0157e0"}}
+{"307a11c2-65f0-4135-b1f7-d2ad0d7f2199":{"type":"brands","title":"Tigi Bed Head","text":"Lorem ipsum","id":"307a11c2-65f0-4135-b1f7-d2ad0d7f2199"}}
+{"bf8b7aca-8471-4fd7-83c8-fe7d1a4a450e":{"type":"brands","title":"Paul Mitchell","text":"Lorem ipsum","id":"bf8b7aca-8471-4fd7-83c8-fe7d1a4a450e"}}
+{"eb25cf67-1d63-461b-837a-7b831259050e":{"type":"brands","title":"Schwarzkopf","text":"Lorem ipsum","id":"eb25cf67-1d63-461b-837a-7b831259050e"}}
+{"ab91dfde-e5ed-47cb-87be-266b0daeb2f4":{"type":"brands","title":"Fudge","text":"Lorem ipsum","id":"ab91dfde-e5ed-47cb-87be-266b0daeb2f4"}}
+{"f723d07a-2990-46c6-8602-09bbf9d36aa2":{"type":"brands","title":"Marianila","text":"Lorem ipsum","id":"f723d07a-2990-46c6-8602-09bbf9d36aa2"}}
+{"735d1618-028e-4c5b-81ee-513f8621cd03":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"735d1618-028e-4c5b-81ee-513f8621cd03"}}
+{"d4d70d3f-0107-46cd-a7f1-963b1b496e3f":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"d4d70d3f-0107-46cd-a7f1-963b1b496e3f"}}
+{"7deff6d0-0dfc-4807-b05c-5c42587d9335":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"7deff6d0-0dfc-4807-b05c-5c42587d9335"}}
+{"d21e27ea-c577-4e45-bf55-4461f744a443":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"d21e27ea-c577-4e45-bf55-4461f744a443"}}
+{"2338d9ba-abcc-4dee-b919-7bdb52766e34":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"2338d9ba-abcc-4dee-b919-7bdb52766e34"}}
+{"dfde1c30-6352-4e34-87c5-386f01e01b53":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"dfde1c30-6352-4e34-87c5-386f01e01b53"}}
+{"51086542-8601-42c4-a4b8-ca9bbf262a91":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"51086542-8601-42c4-a4b8-ca9bbf262a91"}}
+{"69230d35-c821-41aa-be09-f7459680d08a":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"69230d35-c821-41aa-be09-f7459680d08a"}}
+{"67c6c3a7-2db1-426c-b6d1-5d62c541142d":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"67c6c3a7-2db1-426c-b6d1-5d62c541142d"}}
+{"136a6967-11f9-4da5-91a1-5c84d74a26d2":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"136a6967-11f9-4da5-91a1-5c84d74a26d2"}}
+{"244b63de-2ffa-4114-90bc-23058a99382f":{"type":"brands","title":"Bio +","text":"Lorem ipsum","id":"244b63de-2ffa-4114-90bc-23058a99382f"}}
+{"735d1618-028e-4c5b-81ee-513f8621cd03":{"deleted":true,"id":"735d1618-028e-4c5b-81ee-513f8621cd03"}}
+{"244b63de-2ffa-4114-90bc-23058a99382f":{"deleted":true,"id":"244b63de-2ffa-4114-90bc-23058a99382f"}}
+{"136a6967-11f9-4da5-91a1-5c84d74a26d2":{"deleted":true,"id":"136a6967-11f9-4da5-91a1-5c84d74a26d2"}}
+{"67c6c3a7-2db1-426c-b6d1-5d62c541142d":{"deleted":true,"id":"67c6c3a7-2db1-426c-b6d1-5d62c541142d"}}
+{"69230d35-c821-41aa-be09-f7459680d08a":{"deleted":true,"id":"69230d35-c821-41aa-be09-f7459680d08a"}}
+{"51086542-8601-42c4-a4b8-ca9bbf262a91":{"deleted":true,"id":"51086542-8601-42c4-a4b8-ca9bbf262a91"}}
+{"2338d9ba-abcc-4dee-b919-7bdb52766e34":{"deleted":true,"id":"2338d9ba-abcc-4dee-b919-7bdb52766e34"}}
+{"7deff6d0-0dfc-4807-b05c-5c42587d9335":{"deleted":true,"id":"7deff6d0-0dfc-4807-b05c-5c42587d9335"}}
+{"d4d70d3f-0107-46cd-a7f1-963b1b496e3f":{"deleted":true,"id":"d4d70d3f-0107-46cd-a7f1-963b1b496e3f"}}
+{"dfde1c30-6352-4e34-87c5-386f01e01b53":{"deleted":true,"id":"dfde1c30-6352-4e34-87c5-386f01e01b53"}}
+{"8a8bf985-a34f-44c9-95a0-7a52a74225e0":{"deleted":true,"id":"8a8bf985-a34f-44c9-95a0-7a52a74225e0"}}
+{"b889539b-7bab-4995-a547-a5db77c5071d":{"deleted":true,"id":"b889539b-7bab-4995-a547-a5db77c5071d"}}
+{"00461aea-94b5-44a6-9b82-207e05cc2b5c":{"deleted":true,"id":"00461aea-94b5-44a6-9b82-207e05cc2b5c"}}
+{"01f967ea-af65-4ed3-a291-7882f82a589f":{"deleted":true,"id":"01f967ea-af65-4ed3-a291-7882f82a589f"}}
+{"01f967ea-af65-4ed3-a291-7882f82a589f":{"deleted":true,"id":"01f967ea-af65-4ed3-a291-7882f82a589f"}}
+{"fee0bc65-aa2c-4d9e-8db7-abd068009d56":{"type":"products","title":"test","text":"test","category":"Välj Kategori","id":"fee0bc65-aa2c-4d9e-8db7-abd068009d56"}}
