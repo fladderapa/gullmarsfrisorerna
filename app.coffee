@@ -14,7 +14,7 @@ require("bucket-node").initSingletonBucket 'k-stack.db', (data) ->
 
   #console.log process.env.NODE_ENV
 
-  app.set "port", process.env.PORT or 3000
+  app.set "port", process.env.PORT or 3011
   app.set "view engine", "jade"
   app.use favicon()
   app.use logger("dev")
