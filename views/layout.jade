@@ -11,7 +11,7 @@ html.no-js
     base(href="/")
     title
     meta(name="description", content="")
-    meta(name="viewport", content="width=device-width, initial-scale=1")
+    meta(name="viewport", content="width=device-width")
     link(rel="stylesheet",href="/css/style.css")
     link(href='http://fonts.googleapis.com/css?family=Open+Sans', rel='stylesheet', type='text/css')
     link(href='http://fonts.googleapis.com/css?family=Montserrat', rel='stylesheet', type='text/css')
@@ -28,7 +28,8 @@ html.no-js
     <!-- build:js(public) js/vendor.js -->
     // bower:js
     script(src='/bower_components/modernizr/modernizr.js')
-    script(src='/bower_components/jquery/dist/jquery.js')
+    //script(src='/bower_components/jquery/dist/jquery.js')
+    script(src="//code.jquery.com/jquery-1.11.0.min.js")
     script(src='/bower_components/bootstrap/dist/js/bootstrap.js')
     script(src='/bower_components/jquery.stellar/jquery.stellar.js')
     script(src='/js/jquery.smint.js')
@@ -43,5 +44,5 @@ html.no-js
     // endbower
     <!-- endbuild -->
     <!-- build:js(public) js/main.js -->
-    script(src="/js/main.js")
+    script(src="/js/all.js")
     <!-- endbuild -->
