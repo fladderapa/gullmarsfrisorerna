@@ -1,13 +1,14 @@
 extends layout
 
 block content
-	.section.maintron(data-stellar-background-ratio="0")
+	.section.maintron
 		.container
 			.row
 				.col-xs-1
-					.header.Three-Dee
+					.header
 						h1.header1 Gullmars
 							span.header2 frisörerna
+						h2.header3 Since 1995
 				.col-xs-11
 	.section.placeholder
 		nav.navbar.navbar-default(role="navigation")
@@ -18,7 +19,7 @@ block content
 										span.icon-bar
 										span.icon-bar
 										span.icon-bar
-								img.icon(src="https://cdn1.iconfinder.com/data/icons/windows-8-metro-style/64/barber_scissors.png")
+								img.icon(src="/img/barber_scissors.png")
 						div.collapse.navbar-collapse.navHeaderCollapse#bs-example-navbar-collapse-1
 								ul.nav.navbar-nav
 									li
@@ -27,28 +28,32 @@ block content
 										a.HomeBtn(href="#brands", style="color: black;") Varumärken
 									li
 										a.nav-holder(href="#maintron", style="padding-top: 0px !important;")
-											img.navbar-brand(src="https://cdn1.iconfinder.com/data/icons/windows-8-metro-style/64/barber_scissors.png")
+											img.navbar-brand(src="/img/barber_scissors.png")
 									li 
 										a.subNavBtn(href="#price-table", style="color: black;") Priser
 									li
-										a.HomeBtn(href="#contact", style="color: black;") Kontakt
+										a.HomeBtn(href="#kontakt", style="color: black;") Kontakt
 	.section.margin
 		.container
 	.section.slider-section
 		.section
-			div#slider1_container(style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1300px; height: 400px; overflow: hidden;")
+			div#slider1_container(style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1300px; height: 500px; overflow: hidden;")
 				div( u="loading", style="position: absolute; top: 0px; left: 0px;")
 					div(style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block;top: 0px; left: 0px; width: 100%; height: 100%;")
 					div(style="position: absolute; display: block; background: url(/img/loading.gif) no-repeat center center;top: 0px; left: 0px; width: 100%; height: 100%;")
 				div(u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 1300px;height: 500px; overflow: hidden;")
 					div
+						img(u="image" src="/img/repan.JPG")
+					div
 						img(u="image" src="/img/cutting.JPG")
 					div
 						img(u="image" src="/img/shell-landscape.JPG")
 					div
-						img(u="image" src="/img/sallon-stylish.JPG")
+						img(u="image" src="/img/eddie.JPG")
 					div
 						img(u="image" src="/img/saloon-light3.JPG")
+					div
+						img(u="image" src="/img/wella-landscape.JPG")
 					div
 						img(u="image" src="/img/gullmarsfrisorerna.JPG")
 
@@ -116,6 +121,7 @@ block content
 					h2 Håltagning öron
 					for category in category7
 						p #{category.title} #{category.text}:-
+	.section.kontakt
 	.section.contact
 		.container
 			.row
@@ -131,7 +137,6 @@ block content
 					i.fa.fa-map-marker.fa-3x
 					h3 Besöksadress
 					p Gullmarsvägen 2, 121 40 Johanneshov
-					
 	.section.facebook
 		.container
 			h2.text-center Följ oss på facebook!

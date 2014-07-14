@@ -6,12 +6,6 @@ $(document).ready(function() {
   });
 });
 
-if (!Modernizr.touch) {
-  $(window).stellar({
-    horizontalScrolling: false,
-    horizontalOffset: 0
-  });
-}
 
 jQuery(document).ready(function($) {
   var ScaleSlider, jssor_slider1, options, _CaptionTransitions;
@@ -207,7 +201,7 @@ initialize = function() {
     zoom: 16,
     scrollwheel: false,
     disableDefaultUI: true,
-    draggable: true,
+    draggable: false,
     scaleControl: false,
     mapTypeId: google.maps.MapTypeId.ROADMAP
   };
