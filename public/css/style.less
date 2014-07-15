@@ -20,7 +20,6 @@ h1{
 
 h2{
 	font-family: 'Dosis', sans-serif !important;
-	color: white;
 }
 
 h3{
@@ -70,17 +69,18 @@ to {opacity: 1;}
 
 .header{
 	position: absolute;
-	
+	color: black
 }
 
 .header1{
 	font-weight: 300;
-	font-size: 72px !important;
-	color: black;
+	font-size: 72px;
+	
 }
 
 .header2{
 	font-weight: 700;
+	color: white !important;
 }
 
 .header3{
@@ -128,9 +128,6 @@ padding: 20px 0;
 -webkit-font-smoothing: antialiased
 }
 
-.active{
-	color: white !important;
-}
 
 .slider-section{
 	background: url("/img/bg-light.png");
@@ -138,14 +135,12 @@ padding: 20px 0;
 
 
 .maintron{
-	background: url("/img/saloon-light2.JPG") no-repeat center center fixed; 
+	background: url("/img/saloon-light2.JPG") no-repeat center; 
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
     background-size: cover;
     position: relative;
-   -webkit-animation:fadein 1.5s; /* Chrome, Safari, Opera */
-	animation:fadein 0.5s;
 	min-height: 900px;
 	padding-top: 350px;
 }
@@ -316,15 +311,10 @@ i.fa.fa-thumbs-up{
 }
 
 @media only screen and (max-width : 1390px) {
-	.header1{
-	font-size: 62px !important;
-	}
+	
 }
 
 @media only screen and (max-width : 1220px) {
-	.header1{
-	font-size: 52px !important;
-	}
 }
 
 @media only screen and (max-width : 991px) {
@@ -334,6 +324,9 @@ i.fa.fa-thumbs-up{
 }
 
 @media only screen and (max-width : 767px) {
+	.header1{
+		font-size: 62px;
+	}
 	.nav-holder{
 		display: none !important;
 	}
@@ -355,17 +348,15 @@ i.fa.fa-thumbs-up{
 	}
 }
 
-@media only screen and (max-width : 390px) {
+@media only screen and (max-width : 420px) {
 	.header1{
 	font-size: 42px !important;
-	color: white !important;
 	}
 	.header3{
-		font-size: 40px;
-		color: white;
+		font-size: 34px;
 	}
 	.maintron{
-		min-height: 600px;
+		min-height: 500px;
 		padding-top: 250px;
 	}
 	.price-table{
