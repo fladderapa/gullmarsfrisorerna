@@ -9,10 +9,8 @@ require("bucket-node").initSingletonBucket 'k-stack.db', (data) ->
   bodyParser = require("body-parser")
   routes = require("./routes/index")
   session  = require("express-session")
-  flash  = require "connect-flash"
+  flash  = require("connect-flash")
   app = express()
-
-  #console.log process.env.NODE_ENV
 
   app.set "port", process.env.PORT or 3015
   app.set "view engine", "jade"
@@ -24,6 +22,8 @@ require("bucket-node").initSingletonBucket 'k-stack.db', (data) ->
   app.use session(
     secret: "keyboard cat"
     key: "sid"
+    resave: true,
+    saveUninitialized: true
     cookie:
       secure: false)
   app.use flash()
